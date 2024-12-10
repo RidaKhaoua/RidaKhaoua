@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RidaKhaoua
 - 👀 I’m interested in field web development
 - 🌱 I’m currently front-end developer 
-- 💞️ I master HTML5, CSS3, JS, ES6, jQuery, Bootstrap 5, React
+- 💞️ I master React, Ts, Tailwind css, Sass
 - 📫 How to reach me: 
 - Gmail: ridakh.dev@gmail.com
 
